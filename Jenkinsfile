@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Launch') {
             steps {
-                sh 'python /srv/test/test.py'
+                sh 'python /app/test.py'
             }
         }
         stage('Echo') {
