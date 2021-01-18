@@ -1,3 +1,3 @@
 #/usr/bin/python
 
-print('Inch allah ca marche 4')
+print('Vive le DevOps et les clémentines')
