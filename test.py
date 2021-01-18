@@ -1,3 +1,3 @@
 #/usr/bin/python
 
-print('tutu','titi')
+print('vive le DevOps et les clémentines')
